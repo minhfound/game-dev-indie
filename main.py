@@ -4,6 +4,8 @@ pygame.init()
 display = pygame.display.set_mode((800, 600))
 clock = pygame.time.Clock()
 
+#dmmm
+
 class Player:
     def __init__(self, x, y, width, height):
         self.x = x
